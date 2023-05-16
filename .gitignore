@@ -2,9 +2,11 @@
 .env
 .venv
 .DS_Store
+.pytest_cache
 *.sb3
 *.bs3
 *.zip
 *.wav
 *.svg
 project
+__pycache__
