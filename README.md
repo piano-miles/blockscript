@@ -8,8 +8,8 @@ A typed language that compiles into Scratch files, providing young learners with
 
 ## Installation
 
-1. Download or clone the repository via `git clone https://github.com/piano-miles/blockscript.git`
-2. Install the necessary dependencies by running `pip install -r requirements.txt` in your commandline
+1. Download or clone the repository via `git clone https://github.com/piano-miles/blockscript.git`.
+2. Install the necessary dependencies by running `pip install -r requirements.txt` in your commandline.
 
 ## Usage
 
