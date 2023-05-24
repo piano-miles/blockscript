@@ -8,5 +8,7 @@
 *.zip
 *.wav
 *.svg
+*.js
 project
 __pycache__
+!syntax.bs3
