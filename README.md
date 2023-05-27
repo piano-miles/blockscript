@@ -24,7 +24,7 @@ Blockscript files end in `.bs3` but can be raw text as well. The Blockscript com
 
 ### Syntax
 
-The syntax is detailed in the [`syntax files`](examples/syntax.md) in the examples folder.
+The syntax is detailed in the [`syntax files`](examples/syntax/README.md) in the examples folder.
 
 ### Examples
 
