@@ -58,7 +58,7 @@ Stage { ...(blocks)... }
 // Declare a sprite.
 Sprite_1 { // Underscores converted to spaces in the project.
     name = "Sprite 1 with a particular name"; // Optional way to override the sprite name.
-    when green flag clicked { // Begin event
+    whenflagclicked { // Begin event
         a = 3; // No var keyword if a is already declared.
         var g = 5; // A global variable may be declared in a sprite, but it is not recommended.
         // ^^^ Use the Setup class instead to declare global variables.
@@ -68,16 +68,16 @@ Sprite_1 { // Underscores converted to spaces in the project.
         repeat(a * 3 + 1) { // Uses PEMDAS to parse expressions.
             g = g * sqrt(a);
             // Example of a function call.
-            move 10 steps; // Move keyword looks for either parentheses or a value and the steps keyword.
+            movesteps(10);
             move(10); // Equivalent to above.
             ... // Waiting for closed brace to terminate repeat block.
         } // Terminate repeat block.
 
         forever { // All methods are uncapitalized.
             penup();
-            pen up; // Equivalent to above.
+            penup; // Equivalent to above.
             move(45, 50);
-            move to x: 45, y: 50; // Equivalent to above.
+            moveto(x: 45, y: 50); // Equivalent to above.
 
             // Valid if statement:
             if (condition) {
@@ -99,8 +99,7 @@ Sprite_1 { // Underscores converted to spaces in the project.
 
         say(a);
         say a; // Equivalent to above.
-        say(a, 2);
-        say a for 2 seconds; // Equivalent to above.
+        say(a, 2); // Say for 2 seconds
     } // End event
 
     // Below is a stray chunk of floating code.

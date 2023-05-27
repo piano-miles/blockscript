@@ -1,0 +1,111 @@
+{
+    "event_whenflagclicked": [
+        {
+            "name": [
+                "whenflagclicked",
+                "when flag clicked"
+            ],
+            "type": "event",
+            "tabs": 1,
+            "arguments": [],
+            "follow": " {\n",
+            "end": "\n}\n"
+        }
+    ],
+    "control_forever": [
+        {
+            "name": [
+                "forever"
+            ],
+            "type": "control",
+            "tabs": 1,
+            "arguments": [],
+            "follow": " {\n",
+            "end": "\n}\n"
+        }
+    ],
+    "data_setvariableto": [
+        {
+            "name": [
+                "set var"
+            ],
+            "type": "data",
+            "tabs": 0,
+            "arguments": [],
+            "follow": " ",
+            "end": " "
+        }
+    ],
+    "data_changevariableby": [
+        {
+            "name": [
+                "change var"
+            ],
+            "type": "data",
+            "tabs": 0,
+            "arguments": [],
+            "follow": " ",
+            "end": " "
+        }
+    ],
+    "data_addtolist": [
+        {
+            "name": [
+                "addtolist"
+            ],
+            "type": "data",
+            "tabs": 1,
+            "arguments": [],
+            "follow": "",
+            "end": ""
+        }
+    ],
+    "data_deletealloflist": [
+        {
+            "name": [
+                "deletealloflist"
+            ],
+            "type": "data",
+            "tabs": 1,
+            "arguments": [],
+            "follow": "",
+            "end": ""
+        }
+    ],
+    "operator_multiply": [
+        {
+            "name": [
+                "multiply"
+            ],
+            "type": "operator",
+            "tabs": 1,
+            "arguments": [],
+            "follow": " ",
+            "end": " "
+        }
+    ],
+    "event_whenkeypressed": [
+        {
+            "name": [
+                "whenkeypressed"
+            ],
+            "type": "event",
+            "tabs": 1,
+            "arguments": [],
+            "follow": " {\n",
+            "end": "\n}\n"
+        }
+    ],
+    "looks_sayforsecs": [
+        {
+            "name": [
+                "say"
+            ],
+            "type": "looks",
+            "tabs": 1,
+            "arguments": [],
+            "follow": " ",
+            "end": " "
+        }
+    ]
+}

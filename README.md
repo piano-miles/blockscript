@@ -2,7 +2,7 @@
 
 A typed language that compiles into Scratch files, providing young learners with a bridge between visual block programming and a typed coding environment.
 
-- **NOTE: This project is still in a very early stage of development. It is currently unfinished and does not work.**
+- **NOTE: This project is still in a very early stage of development. It is currently unfinished and does not work. Please do not use until this message goes away.**
 
 ---
 

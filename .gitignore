@@ -9,6 +9,6 @@
 *.wav
 *.svg
 *.js
-project
+ref
 __pycache__
 !syntax.bs3
