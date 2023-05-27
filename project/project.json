@@ -415,7 +415,7 @@
     "extensions": [],
     "meta": {
         "semver": "3.0.0",
-        "vm": "",
+        "vm": "1.5.48",
         "agent": ""
     }
 }
